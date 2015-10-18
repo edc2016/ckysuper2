@@ -11,6 +11,7 @@ public class Item {
 
     @Field("id")
     private Long id;
+   
 
     @Field("title")
     private String title;
